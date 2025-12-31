@@ -1,0 +1,21 @@
+"month,region,product,units_sold,revenue,marketing_spend,customer_complaints"
+"Jan,North,Product A,1200,240000,30000,12"
+"Jan,South,Product A,950,190000,25000,18"
+"Jan,East,Product A,1100,220000,28000,10"
+"Jan,West,Product A,1000,200000,26000,15"
+"Feb,North,Product A,1150,230000,29000,14"
+"Feb,South,Product A,900,180000,24000,20"
+"Feb,East,Product A,1050,210000,27000,12"
+"Feb,West,Product A,950,190000,25000,18"
+"Mar,North,Product A,980,196000,26000,22"
+"Mar,South,Product A,820,164000,23000,28"
+"Mar,East,Product A,900,180000,24000,20"
+"Mar,West,Product A,880,176000,24000,24"
+"Apr,North,Product A,900,180000,25000,26"
+"Apr,South,Product A,780,156000,22000,32"
+"Apr,East,Product A,850,170000,23000,28"
+"Apr,West,Product A,820,164000,23000,30"
+"May,North,Product A,850,170000,24000,30"
+"May,South,Product A,720,144000,21000,36"
+"May,East,Product A,800,160000,22000,34"
+"May,West,Product A,780,156000,22000,35"
